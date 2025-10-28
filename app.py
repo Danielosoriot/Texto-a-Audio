@@ -12,7 +12,7 @@ st.set_page_config(page_title="Flow con Anuel 🔊", page_icon="🎤", layout="c
 # --- TÍTULO Y PORTADA ---
 st.title("🔥 Generador de Audio - Flow Anuel 🔥")
 
-image = Image.open('anuel_portada.png')  # Reemplaza con una imagen de Anuel
+image = Image.open('anuel1.png')  # Reemplaza con una imagen de Anuel
 st.image(image, width=400)
 
 with st.sidebar:
